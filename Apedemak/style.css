@@ -1,0 +1,44 @@
+
+.mainWindow {
+    background-image: url("back.jpg");
+    /*background-size: cover;*/
+}
+
+.displayedImage {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.projectTitle {
+    font-size: 30px;
+    color: white;
+}
+
+.boxTitle {
+    color: white;
+    font-weight: bold;
+    border-bottom: 1px rgba(255,255,255, 0.3) solid;
+    padding:5px;
+    margin-bottom: 5px;
+}
+.actionBtn {
+    color:#FFF;
+    border-radius: 5px;
+    border: solid 1px #795508;
+    background: #c0870c;
+    padding: 10px 15px;
+    transition: all 0.1s;
+    box-shadow: 0px 5px 0px #795508;
+}
+
+.actionBtn:active {
+    box-shadow: 0px 1px 0px #795508;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 10px 20px 10px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
