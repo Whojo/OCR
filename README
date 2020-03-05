@@ -1,0 +1,28 @@
+# Apedemak
+
+--------
+    Students
+--------
+    # moustapha.diop (Moustapha DIOP)
+    # guillaume1.thomas (Guillaume THOMAS)
+    # tom.rottenfus (Tom ROTTENFUS)
+    # guillaume.mateos (Guillaume MATEOS)
+
+--------
+    Directories
+--------
+    # ./data/ : Contain output files and logo
+    # ./NeuralNetwork/ : Contain everything about neural network
+    # ./Segmentation/ : Contain evertyhing about Segmentation
+	# ./Correction/ : Contain everything about spell cheking
+	# ./UI/ : Contain everything for UI
+    # ./SDL/ : Contain everything to manipulate images
+
+--------
+    How to run Apedemak
+--------
+    $ make
+    $ ./main
+		=> ENJOY APEDEMAK
+
+
